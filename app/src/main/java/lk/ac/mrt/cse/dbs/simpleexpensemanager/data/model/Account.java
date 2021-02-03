@@ -63,4 +63,14 @@ public class Account {
         this.accountHolderName = accountHolderName;
         this.balance = balance;
     }
+
+
+   /* public String toString() {
+        return "Account{" +
+                "accountNo='" + accountNo + '\'' +
+                ", bankName='" + bankName + '\'' +
+                ", accountHolderName='" + accountHolderName + '\'' +
+                ", balance=" + balance +
+                '}';
+    }*/
 }
